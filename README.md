@@ -1,6 +1,8 @@
 # jackknife.lm
 Delete-d Jackknife Estimate for Linear Regression Use jackknife.lm (jackknifeR) With (In) R Software
 
+https://www.youtube.com/watch?v=MkRW8MeWWR4
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
